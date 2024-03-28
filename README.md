@@ -25,7 +25,7 @@ To delete a transaction, click the delete button (trash can icon) next to the tr
 
  # Contributors
 
- - Kush Muhamed - Your GitHub profile
+ - Kush Muhamed - https://github.com/kush-muhamad/
  - kushmuhamed27@gmail.com
  - +256700906670
 
